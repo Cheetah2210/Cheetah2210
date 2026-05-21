@@ -1,7 +1,9 @@
-# Cheetahs Creations
+# Cheetahs Creations - Emily 🌻 
 
 Welcome to the open-source hardware 
 engineering workspace for Cheetahs Creations.
+
+>"I am always doing that which I cannot do, in order that I may learn how to do it."  
 
 ## 🛠️ Focus Areas
 
