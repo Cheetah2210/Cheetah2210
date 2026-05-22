@@ -3,7 +3,7 @@
 Welcome to the open-source hardware 
 engineering workspace for Cheetahs Creations.
 
->"I am always doing that which I cannot do, in order that I may learn how to do it."  
+>“Don't waste time or time will waste you."
 
 ## 🛠️ Focus Areas
 
