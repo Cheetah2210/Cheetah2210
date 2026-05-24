@@ -8,8 +8,7 @@ engineering workspace for Cheetahs Creations.
 ## 🛠️ Focus Areas
 
 * **Thermal Recovery Ecosystems:** Designing next-generation, solid-state 
-  waste heat recovery retrofits for high-density 
-  data centers.
+  waste heat recovery retrofits for global energy recovery.
 
 * **Fluid Dynamics & MHD:** Engineering closed-loop magnetohydrodynamic 
   power channels and specialized immiscible 
