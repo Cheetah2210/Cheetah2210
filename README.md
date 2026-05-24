@@ -37,7 +37,7 @@ I don’t just design resilient hardware; I live it. My development sandbox and 
 ## 🧰 The Master Workbench & Trades
 My engineering work is rooted in practical, multi-disciplinary execution. From structural remodeling to component-level logic, the toolkit is completely hands-on:
 
-* **Hardware & Electronics:** Legacy PC building, component-level electronics repair, small appliance forensics, and custom hardware modification.
+* **Hardware & Electronics:** Legacy and Modern PC building, component-level electronics repair, small appliance forensics, custom hardware modification, misplacing that tool I just had in my hand...
 * **Physical Trades & Infrastructural Wiring:** Practical experience across structural carpentry, plumbing, masonry, decorative concrete, and electrical diagnostics.
 * **Spatial & Graphic Design:** Hand drafting, floor plans, interior space planning, custom furniture design, and visual graphic arts.
 * **System Operations & Optimization:** Deep organizational design, space optimization, and meticulous documentation pipelines.
