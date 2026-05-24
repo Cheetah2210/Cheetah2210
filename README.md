@@ -44,6 +44,13 @@ My engineering work is rooted in practical, multi-disciplinary execution. From s
 
 ---
 
+## 🌍 Beyond the Workbench
+Beyond blueprints, data pipes, and physical builds, my drive is fueled by a profound appreciation for the bigger picture:
+* **The Human Tapestry:** A deep, foundational respect for the good in all people, diverse cultures, and the vast trajectory of humanity (and whatever lies beyond).
+* **Sonic Exploration:** A lifelong love for music of every imaginable genre. If a track has soul, rhythm, or story, it's on my playlist—even (and often especially) when I don't understand a single word of the lyrics.
+
+---
+
 ### 🚀 What's Next?
 * More completely random projects are coming. **"To the drawing board! Awayyyyy...."**
 
