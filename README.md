@@ -1,4 +1,4 @@
-# Cheetahs Creations — Emily 🌻
+# Cheetahs Creations — 🌻 Emily 🌻
 
 Welcome to the open-source hardware engineering and technical forensics workspace for Cheetahs Creations. 
 
@@ -38,9 +38,9 @@ I don’t just design resilient hardware; I live it. My development sandbox and 
 My engineering work is rooted in practical, multi-disciplinary execution. From structural remodeling to component-level logic, the toolkit is completely hands-on:
 
 * **Hardware & Electronics:** Legacy and Modern PC building, component-level electronics repair, small appliance forensics, custom hardware modification, misplacing that tool I just had in my hand...
-* **Physical Trades & Infrastructural Wiring:** Practical experience across structural carpentry, plumbing, masonry, decorative concrete, and electrical diagnostics.
-* **Spatial & Graphic Design:** Hand drafting, floor plans, interior space planning, custom furniture design, and visual graphic arts.
-* **System Operations & Optimization:** Deep organizational design, space optimization, and meticulous documentation pipelines.
+* **Physical Trades & Infrastructural Wiring:** Practical experience across structural carpentry, plumbing, masonry, decorative concrete, electrical diagnostics, inventing new words in times of frustration...
+* **Spatial & Graphic Design:** Hand drafting, floor plans, interior space planning, custom furniture design, visual graphic arts, and sketches of my sketches.
+* **System Operations & Optimization:** Deep organizational design, space optimization, (A.k.a. JUNK Jenga) and meticulous documentation pipelines.
 
 ---
 
