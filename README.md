@@ -54,4 +54,4 @@ My engineering work is rooted in practical, multi-disciplinary execution. From s
 
 ---
 
-**"Build it local, back it up five times, and make the waste heat pay for the computing power."**
+**"Build it local, back it up five times, and make it pay for itself."**
