@@ -6,36 +6,13 @@ Welcome to the open-source hardware engineering and technical forensics workspac
 
 ---
 
-## 🛠️ Focus Areas & Core Philosophy
+## 🛠️ Philosophy:
 
-* **Thermal Recovery Ecosystems:** Designing next-generation, solid-state waste heat recovery retrofits to capture and convert overlooked energy.
-* **Fluid Dynamics & MHD:** Engineering closed-loop magnetohydrodynamic (MHD) power channels and specialized immiscible binary fluid suspensions.
-* **Absolute Data Sovereignty:** Architecting cloud-independent, local-first environments. I build high-redundancy, self-hosted infrastructure utilizing Home Assistant, local MQTT tracking networks, and dedicated NAS architectures because data belongs in your hands, not on corporate servers.
-* **Technical Forensics & Deep Diagnostics:** Diving deep into low-level hardware troubleshooting, component-level electronics repair, and complex logic audits.
-* **Full-Scale Physical Execution:** Bridging the gap between digital simulation and structural reality. I don't just design systems on a screen; I build, plumb, wire, and modify the physical environments they run in.
-
----
-
-## 🔬 Active Open-Source Ecosystem
-
-### 🌌 The Cascading Hybrid Thermal Scavenger (CHTS) Project
-* **The-Cascading-Hybrid-Thermal-Scavenger:** Our comprehensive flagship super-project, seamlessly cascading a high-efficiency MHD loop with a secondary refrigerant vapor cycle.
-* **The-Cascading-Solid-State-Thermal-Scavenger:** The solid-state core optimized specifically for MHD channels and multi-stage kinetic scavenging loops.
-* **Data-Center-Thermal-Scavenger:** An external, decoupled thermal scavenging retrofit engineered to convert intensive server-side waste heat back into usable power.
-* **The-Solid-State-Carbon-Scavenger:** An innovative, low-cost solid-state carbon capture system engineered to intercept and scrub exhaust emissions, transforming targeted carbon byproducts directly at the source.
-
----
-
-## 💾 Infrastructure & Redundancy Manifest
-I don’t just design resilient hardware; I live it. My development sandbox and deployment workflows run on a strict "Zero Trust, Zero Cloud" operational baseline:
-
-* **5-Copy Redundancy Strategy:** All critical project data, simulation scripts, and code repositories are maintained across five distinct, synchronized physical copies, including hard-wired, physically off-site bare-metal disaster recovery sites.
-* **Local-First Telemetry:** Real-time environmental monitoring and hardware telemetry are handled entirely via self-hosted MQTT and Home Assistant instances—isolated completely from external WAN dependencies.
-
----
+  Figure out how it works, find out why it broke, and accept that I’m probably going to learn the lesson the hard way first. (Occasionally inventing new curse words along the way, but fixing it all somehow anyway.) My goal is to map out the pitfalls and make that knowledge universally accessible. That way, you can entirely skip the structural damage and get right to making things better.
 
 ## 🧰 The Master Workbench & Trades
-My engineering work is rooted in practical, multi-disciplinary execution. From structural remodeling to component-level logic, the toolkit is completely hands-on:
+
+  My engineering work is rooted in practical, multi-disciplinary execution. From structural remodeling to component-level logic, the toolkit is completely hands-on:
 
 * **Hardware & Electronics:** Legacy and Modern PC building, component-level electronics repair, small appliance forensics, custom hardware modification, misplacing that tool I just had in my hand...
 * **Physical Trades & Infrastructural Wiring:** Practical experience across structural carpentry, plumbing, masonry, decorative concrete, electrical diagnostics, inventing new words in times of frustration...
@@ -45,10 +22,10 @@ My engineering work is rooted in practical, multi-disciplinary execution. From s
 ---
 
 ## 🌍 Beyond the Workbench
-Beyond blueprints, data pipes, and physical builds, my drive is fueled by a profound appreciation for the bigger picture:
-* **The Human Tapestry:** A deep, foundational respect for the good in all people, diverse cultures, and the vast trajectory of humanity (and whatever lies beyond).
-* **Sonic Exploration:** A lifelong love for music of every imaginable genre. If a track has soul, rhythm, or story, it's on my playlist—even (and often especially) when I don't understand a single word of the lyrics.
+  Beyond blueprints, data pipes, and physical builds, my drive is fueled by a profound appreciation for the bigger picture:
 
+* **I have a deep, foundational respect for the good in all people, diverse cultures, and the vast trajectory of humanity (and whatever lies beyond).
+* **I have lifelong love for music of every imaginable genre, every language.
 ---
 
 ### 🚀 What's Next?
@@ -60,5 +37,3 @@ Beyond blueprints, data pipes, and physical builds, my drive is fueled by a prof
 * **LinkedIn:** [linkedin.com/in/cheetahs-creations](https://www.linkedin.com/in/cheetahs-creations/)
 
 ---
-
-**"Build it local, back it up five times, and make it pay for itself."**
