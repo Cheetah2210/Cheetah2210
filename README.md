@@ -1,5 +1,4 @@
-# Cheetahs Creations 
-     🌻 Emily 🌻
+# Cheetahs Creations - 🌻 Emily 🌻
 
 *"Don't waste time, or time will waste you."*
 
