@@ -1,39 +1,92 @@
-# Cheetahs Creations — 🌻 Emily 🌻
+# 🌻 Cheetahs Creations — Emily 🌻
 
-Welcome to the open-source hardware engineering and technical forensics workspace for Cheetahs Creations. 
+*"Don't waste time, or time will waste you."*
 
-> “Don't waste time, or time will waste you.”
+Welcome to my little corner of organized chaos — an open-source workspace for hardware engineering, technical forensics, repair work, and whatever project has decided to follow me home this week.
+
+I spend a lot of time figuring out **how things work, why they broke, and how to make them better** — usually through equal parts curiosity, persistence, and occasional stubbornness.
+
+The goal here isn't just building things.
+
+It's documenting the process, sharing the lessons, and leaving behind maps so other people can skip some of the potholes I found the hard way.
 
 ---
 
-## 🛠️ Philosophy:
+## 🛠️ How I Approach Things
 
-  Figure out how it works, find out why it broke, and accept that I’m probably going to learn the lesson the hard way first. (Occasionally inventing new curse words along the way, but fixing it all somehow anyway.) My goal is to map out the pitfalls and make that knowledge universally accessible. That way, you can entirely skip the structural damage and get right to making things better.
+I learn best by doing.
 
-## 🧰 The Master Workbench & Trades
+Sometimes that means redesigning something six times before it finally behaves. Sometimes it means inventing entirely new curse words while holding a flashlight in my teeth.
 
-  My engineering work is rooted in practical, multi-disciplinary execution. From structural remodeling to component-level logic, the toolkit is completely hands-on:
+Either way, the mission stays the same:
 
-* **Hardware & Electronics:** Legacy and Modern PC building, component-level electronics repair, small appliance forensics, custom hardware modification, misplacing that tool I just had in my hand...
-* **Physical Trades & Infrastructural Wiring:** Practical experience across structural carpentry, plumbing, masonry, decorative concrete, electrical diagnostics, inventing new words in times of frustration...
-* **Spatial & Graphic Design:** Hand drafting, floor plans, interior space planning, custom furniture design, visual graphic arts, and sketches of my sketches.
-* **System Operations & Optimization:** Deep organizational design, space optimization, (A.k.a. JUNK Jenga) and meticulous documentation pipelines.
+> Figure out how it works.  
+> Find out why it failed.  
+> Fix it, document it, and share what was learned.
+
+---
+
+## 🧰 The Workbench
+
+My projects tend to wander across a lot of disciplines, because real-world problems rarely stay inside one lane.
+
+### ⚙️ Hardware & Electronics
+- Legacy and modern PC building  
+- Component-level electronics repair  
+- Small appliance forensics  
+- Custom hardware modification  
+- Misplacing the exact tool I was just holding
+
+### 🔌 Physical Trades & Infrastructure
+- Structural carpentry  
+- Plumbing and mechanical troubleshooting  
+- Masonry and decorative concrete  
+- Electrical diagnostics and repair  
+- Creative vocabulary expansion during troubleshooting
+
+### ✏️ Design & Visualization
+- Hand drafting and floor plans  
+- Interior and spatial planning  
+- Custom furniture concepts  
+- Graphic and visual design  
+- Sketches of sketches of sketches
+
+### 📋 Systems & Optimization
+- Organizational design  
+- Space and workflow optimization  
+- Documentation pipelines  
+- Strategic JUNK Jenga  
+- Turning chaos into something vaguely civilized
 
 ---
 
 ## 🌍 Beyond the Workbench
-  Beyond blueprints, data pipes, and physical builds, my drive is fueled by a profound appreciation for the bigger picture:
 
-* **I have a deep, foundational respect for the good in all people, diverse cultures, and the vast trajectory of humanity (and whatever lies beyond).
-* **I have lifelong love for music of every imaginable genre, every language.
+The projects matter, but so do the people behind them.
+
+I have a deep appreciation for humanity, diverse cultures, lifelong learning, and the idea that knowledge should be shared rather than guarded.
+
+And music?
+
+Pretty much all of it.
+
+Every genre. Every language. If it exists, chances are I'll listen to it.
+
 ---
 
-### 🚀 What's Next?
-* More completely random projects are coming. **"To the drawing board! Awayyyyy...."**
+## 🚀 What's Next?
+
+Probably something random.
+
+Definitely something interesting.
+
+More builds, more experiments, more repair adventures, and more lessons learned the entertaining way.
+
+**To the drawing board! Awayyyyy....**
 
 ---
 
 ## 🌐 Connect With Me
-* **LinkedIn:** [linkedin.com/in/cheetahs-creations](https://www.linkedin.com/in/cheetahs-creations/)
 
----
+💼 LinkedIn  
+https://linkedin.com/in/cheetahs-creations
