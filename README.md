@@ -6,7 +6,7 @@
 
 Before proceeding through the repositories contained within this profile, you may wish to review the:
 
-### [📜 A COMPLETELY REASONABLE AND TOTALLY RECIPROCAL TERMS OF REPOSITORY ACCESS](https://github.com/Cheetah2210/A_COMPLETELY_REASONABLE_TOS)
+### [📜 COMPLETELY REASONABLE TERMS OF REPOSITORY ACCESS](https://github.com/Cheetah2210/A_COMPLETELY_REASONABLE_TOS)
 
 
 Welcome to my little corner of organized chaos — an open-source workspace for hardware engineering, technical forensics, repair work, and whatever project has decided to follow me home this week.
