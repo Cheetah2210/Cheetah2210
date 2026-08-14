@@ -90,3 +90,5 @@ More builds, more experiments, more repair adventures, and more lessons learned 
 
 💼 LinkedIn  
 https://linkedin.com/in/cheetahs-creations
+
+## [📜 Read my Completely Reasonable TOS™](https://github.com/Cheetah2210/A_COMPLETELY_REASONABLE_TOS)
