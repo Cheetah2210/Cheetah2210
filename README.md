@@ -2,6 +2,8 @@
 
 *"Don't waste time, or time will waste you."*
 
+## [📜 Read my Completely Reasonable TOS™](https://github.com/Cheetah2210/A_COMPLETELY_REASONABLE_TOS)
+
 Welcome to my little corner of organized chaos — an open-source workspace for hardware engineering, technical forensics, repair work, and whatever project has decided to follow me home this week.
 
 I spend a lot of time figuring out **how things work, why they broke, and how to make them better** — usually through equal parts curiosity, persistence, and occasional stubbornness.
@@ -91,4 +93,4 @@ More builds, more experiments, more repair adventures, and more lessons learned 
 💼 LinkedIn  
 https://linkedin.com/in/cheetahs-creations
 
-## [📜 Read my Completely Reasonable TOS™](https://github.com/Cheetah2210/A_COMPLETELY_REASONABLE_TOS)
+
