@@ -100,4 +100,7 @@ More builds, more experiments, more repair adventures, and more lessons learned 
 💼 LinkedIn  
 https://linkedin.com/in/cheetahs-creations
 
+🌍 Etsy Store
+https://www.etsy.com/shop/CheetahsCreationsGA
+
 
