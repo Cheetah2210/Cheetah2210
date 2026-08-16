@@ -1,6 +1,5 @@
 <h1 align="center">Cheetah's Creations</h1>
-# 
-### 🌻 Emily 🌻
+<h2 align="center">🌻 Emily 🌻</h2>
 ***
 <p align="center"><font size="3"><i>"Don't waste time, or time will waste you."</i></font></p>
 
