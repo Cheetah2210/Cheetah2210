@@ -97,10 +97,10 @@ More builds, more experiments, more repair adventures, and more lessons learned 
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn  
+💼 LinkedIn  <br>
 https://linkedin.com/in/cheetahs-creations
 <br>
-🌍 Etsy Store
+🌍 Etsy Store <br>
 https://www.etsy.com/shop/CheetahsCreationsGA
 <br>
 
