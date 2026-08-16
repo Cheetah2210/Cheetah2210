@@ -5,7 +5,11 @@
 <p align="center"><b><font size="5">🌻 Emily 🌻</font></b></p>
 
 
-<p align="center"><i>"Don't waste time, or time will waste you."</i></p>
+<div align="center">
+  <h3></h3>
+  <p><i>"Don't waste time, or time will waste you."</i></p>
+</div>
+ 
  
 
 ## 📜 Repository Terms of Access
