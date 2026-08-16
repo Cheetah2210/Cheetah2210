@@ -2,7 +2,7 @@
 <h1 align="center">
   Cheetahs Creations <h1>
 
-<h2 align="center">🌻 Emily 🌻</h2> 
+<p align="center"><b><font size="5">🌻 Emily 🌻</font></b></p>
 
 <br> 
 
