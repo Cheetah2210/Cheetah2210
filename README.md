@@ -1,8 +1,8 @@
 #
 <p align="center">
   # Cheetahs Creations 
-  ## 🌻 Emily 🌻 
 </p>
+<h2 align="center">🌻 Emily 🌻</h2> 
 
 <br> 
 
