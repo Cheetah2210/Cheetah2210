@@ -1,8 +1,13 @@
-# <div align="center"> Cheetahs Creations </div>
-# <div align="center">
-🌻 Emily 🌻  </div>
+<p align="center">
+  # Cheetahs Creations 
+  ## 🌻 Emily 🌻 
+</p>
 
-#
+# <div align="center">  </div>
+# <div align="center">
+  </div>
+
+
 *"Don't waste time, or time will waste you."*
 
 ## 📜 Repository Terms of Access
