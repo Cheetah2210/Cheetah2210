@@ -4,9 +4,9 @@
 
 <p align="center"><b><font size="5">🌻 Emily 🌻</font></b></p>
 
-<br> 
 
-*"Don't waste time, or time will waste you."*
+<p align="center"><i>"Don't waste time, or time will waste you."</i></p>
+ 
 
 ## 📜 Repository Terms of Access
 
