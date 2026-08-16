@@ -1,12 +1,10 @@
+#
 <p align="center">
   # Cheetahs Creations 
   ## 🌻 Emily 🌻 
 </p>
 
-# <div align="center">  </div>
-# <div align="center">
-  </div>
-
+<br> 
 
 *"Don't waste time, or time will waste you."*
 
