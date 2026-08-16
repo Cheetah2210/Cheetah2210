@@ -1,6 +1,7 @@
 <h1 align="center">Cheetah's Creations</h1>
-<h2 align="center">🌻 Emily 🌻</h2>
-***
+<h1 align="center">🌻 Emily 🌻</h1>
+
+
 <p align="center"><font size="3"><i>"Don't waste time, or time will waste you."</i></font></p>
 
 ## 📜 Repository Terms of Access
